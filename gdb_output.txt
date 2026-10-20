@@ -1,0 +1,182 @@
+Reading symbols from ./bomb...
+(No debugging symbols found in ./bomb)
+Breakpoint 1 at 0x40249a
+Starting program: /home/david_wang/ics-2026-bomblab/bomb --seed 42 --phase 5
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+Phase 5 challenge: 0xde4431fa3c80db06
+Input (unsigned decimal integers):
+
+Program received signal SIGINT, Interrupt.
+__internal_syscall_cancel (a1=0, a2=4235296, a3=1024, a4=0, a5=0, a6=0, nr=0) at ./nptl/cancellation.c:40
+0x405b60 <p5_heads>:	0x0000000000405ba0	0x0000000000405bb0
+0x405b70 <p5_heads+16>:	0x0000000000405c50	0x0000000000405c10
+0x405b80 <p5_heads+32>:	0x0000000000405be0	0x0000000000405c20
+0x405b90 <p5_heads+48>:	0x0000000000405c00	0x0000000000405c40
+[?2004hA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+Quit anyway? (y or n) gdb -q ./bomb -ex "x/8gx 0x405b60" -ex "quit"gdb -q ./bomb -ex "x/8gx 0x405b60" -ex "quit"gdb -q ./bomb -ex "x/8gx 0x405b60" -ex "quit"
+[?2004lPlease answer y or n.
+[?2004hA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+Quit anyway? (y or n) jjjj[K[K[?2004l[?2004h(gdb) [?2004l[?2004h(gdb) [?2004l[?2004h(gdb) [?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+Quit anyway? (y or n) [?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004lA debugging session is active.
+
+	Inferior 1 [process 4799] will be killed.
+
+[?2004l
